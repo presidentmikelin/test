@@ -1,2 +1,1 @@
-xxxx
-friend+
+ok this time
